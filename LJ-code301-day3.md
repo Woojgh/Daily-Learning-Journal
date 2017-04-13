@@ -1,0 +1,3 @@
+<h1>LJ-code301-day3</h1>
+
+Man yesterday and today we are dealing with some hard concepts to grasp. But I think looking at it from a complete idea was where I was faltering. I always forget to break thing down into smaller chunks to lighten my thought process. I feel like I can cause events to happen like no ones business with jquery but manipulating the dom with clone and all that still make me puzzled. I'm also not the greatest with front end so thats also a contributing factor.
