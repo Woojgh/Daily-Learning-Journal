@@ -1,0 +1,3 @@
+<h1>LJ Code301 Day11</h1>
+
+We finished up some stuffs on IIFE and higher functiong.  I like the fact that using IIFE puts a level of security that I really wasn't aware of.  I do feel like my understanding of the topic is stronger but I will have to wait and see how Lab is tomorrow to see if the information stuck.  I have done a bit of work with my portfolio on the subject but not all that was taught.
