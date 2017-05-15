@@ -1,0 +1,2 @@
+<h1>LJ Code 401 Day 1</h1>
+We finally got to get started on learning python today! I had some trouble setting up the ENV so I need to work on that.  But I am familiar with python so most everyrhing else was easy to understand. I cannot wait to get into some more difficult python situations.
