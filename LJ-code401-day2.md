@@ -1,0 +1,3 @@
+<h1>LJ Code401 Day2</h1>
+
+We aquired some good testing skills today.  We also learned about using modules and packages, which gave us our testing abilities.  As our pair programming for today we defined some functions to find the nth value in the fibonacci sequence. Eric nd I actually had a little difficulty figuring out how to get our functions to count up to the right value.  But we did some research and figured it out.  The python section of things really wasn't that difficult, just some logic.
